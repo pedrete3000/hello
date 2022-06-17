@@ -1,5 +1,5 @@
 import java.util.ArrayList; //importem la classe
-import java.util.Collections;
+import java.util.Collections; //añado este texto para pruebas del git
 public class Arreglos {
 public static void main(String[] args) {
 ArrayList<String> alumnes = new ArrayList<String>();
